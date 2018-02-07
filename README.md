@@ -1,5 +1,5 @@
 ## 기술자료
-- [nginx 활용한 TCP로드벨런스]()
+- [nginx 활용한 TCP로드벨런스](nginx_tcp_loadbalance.md)
 
 ## 기술블로그
 - [KAKAO기술블로그](http://tech.kakao.com)
